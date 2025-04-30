@@ -63,7 +63,7 @@ Bu liste, bireysel geliştiricilerden startup'lara, kurumsal şirketlerden açı
 - Entegrasyon kütüphaneleri  
   _Henüz ürün eklenmedi._
 - UI kitleri ve bileşenler  
-  _Henüz ürün eklenmedi._
+   - [Baklava](https://github.com/Trendyol/baklava) – Trendyol'un geliştirdiği UX kütüphanesi.
 
 ---
 
