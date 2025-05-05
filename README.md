@@ -15,7 +15,7 @@ Bu liste, bireysel geliştiricilerden startup'lara, kurumsal şirketlerden açı
 
 ### 🧠 SaaS (Software as a Service)
 - CRM, ERP, finans, iş yönetimi vb. bulut yazılımları  
-  _Henüz ürün eklenmedi._
+  - [Analist FDR](https://www.analistfdr.com/) – Şirketinizin finansal verilerini işler ve mali tablolarınızı bütçe kayıtlarınızla karşılaştırmalı olarak kuvvetli araçlarla kullanımınıza sunar.
 - Eğitim, sağlık, hukuk gibi dikey çözümler  
   _Henüz ürün eklenmedi._
 - Abonelikli web uygulamaları  
