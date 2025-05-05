@@ -10,7 +10,8 @@ Bu liste, bireysel geliştiricilerden startup'lara, kurumsal şirketlerden açı
 ## 📦 Kategoriler
 
 ### Doküman / Dizin
- - [https://heroic-starburst-9817e4.netlify.app/](Mobil Uygulama Geliştiricileri için Yargı Alanı Karşılaştırması)
+
+ - [Mobil Uygulama Geliştiricileri için Yargı Alanı Karşılaştırması](https://heroic-starburst-9817e4.netlify.app/)
 
 ### 🧠 SaaS (Software as a Service)
 - CRM, ERP, finans, iş yönetimi vb. bulut yazılımları  
