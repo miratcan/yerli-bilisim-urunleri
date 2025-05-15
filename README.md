@@ -1,8 +1,5 @@
 # 🇹🇷 Yerli Bilişim Ürünleri
 
-Türkiye'de geliştirilen yazılım ürünlerinin açık bir listesi.  
-Bu liste, bireysel geliştiricilerden startup'lara, kurumsal şirketlerden açık kaynak topluluklarına kadar **yerli üretim yazılımları** bir araya getirmeyi amaçlar.
-
 > Yeni bir ürün mü biliyorsun? Aşağıdaki [Katkıda Bulun](#katkıda-bulun) bölümüne göz atarak kolayca ekleyebilirsin.
 
 ---
