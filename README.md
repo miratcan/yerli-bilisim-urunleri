@@ -102,10 +102,8 @@
 
 ## 🤝 Katkıda Bulun
 
-Bu listeyi birlikte büyütelim!  
-Yeni bir yazılım eklemek için:
+Bu listeyi birlikte büyütelim! Yeni bir ürün eklemek için uygun kategori başlığı altına şu formatta ekleme yapabilirsiniz:
 
-1. Uygun kategori başlığı altına bir madde olarak ekle:
    ```markdown
    - [Ürün Adı](https://linki.com) – Kısa bir açıklama.
-
+   ```
