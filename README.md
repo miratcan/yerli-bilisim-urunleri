@@ -1,6 +1,6 @@
 # 🇹🇷 Yerli Bilişim Ürünleri
 
-> Yeni bir ürün mü biliyorsun? Aşağıdaki [Katkıda Bulun](#katkıda-bulun) bölümüne göz atarak kolayca ekleyebilirsin.
+> Yeni bir ürün mü biliyorsun? Aşağıdaki [Katkıda Bulun](#-katkıda-bulun) bölümüne göz atarak kolayca ekleyebilirsin.
 
 ---
 
